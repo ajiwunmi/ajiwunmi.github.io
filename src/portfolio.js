@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Taiwo's Portfolio",
   description:
-    "I am an enthusiastic, passionate and adaptable individual with work experiences and proficiencies in design, development, deployment and maintenance  of responsive web applications and data oriented solutions for optimizing daily, local and global business needs to enhance  users efficiency and productivity which as well improves business growth and profit margin.",
+    "I an versatile Full Stack Developer with over 7 years of experience in designing, developing, and deploying high-performance web applications. Adept in both front-end and back-end technologies, with a solid track record of executing projects from conception through deployment. Proficient in a wide range of programming languages and frameworks, including HTML, CSS, JavaScript, React, Node.js, PHP, .NET C#, and Python. Demonstrates strong problem-solving skills and a commitment to delivering efficient, scalable solutions across diverse business environments..",
   og: {
     title: "Taiwo Aremu Portfolio",
     type: "website",
@@ -686,7 +686,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. Proficient in building responsive and dynamic web applications using front-end technologies like React.js, Streamlit, jQuery, JavaScript, Bootstrap, and HTML/CSS, combined with back-end frameworks such as .NET Core, PHP CodeIgniter, and Laravel RESTful API.",
   avatar_image_path: "projects_image.svg",
 };
 
